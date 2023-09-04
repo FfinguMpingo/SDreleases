@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sample Dragon</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 04 Sep 2023 17:56:37 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/FfinguMpingo/SDreleases/main/SampleDragon.dmg" length="7980832" type="application/octet-stream" sparkle:edSignature="rp4ctFAzr13dfMmfe5J1Fcdqk3QZFDATQfdOqf+JVFgIU3rg2pGVel2p9py52bHZE3jomW4oi6TldN05hw+YAw=="/>
+        </item>
+    </channel>
+</rss>
